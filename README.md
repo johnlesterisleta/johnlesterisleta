@@ -1,4 +1,4 @@
-** Hi, I'm John Lester Isleta 👋 **
+**Hi, I'm John Lester Isleta 👋**
 
 Welcome to my GitHub profile! Here's a snapshot of my coding activity:
 
