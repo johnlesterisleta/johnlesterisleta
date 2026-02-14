@@ -20,4 +20,5 @@ Welcome to my GitHub profile! Here's a snapshot of my coding activity:
 **📊 Repositories by Language**
 [![Repos](https://wakatime.com/share/@johnlesterisleta/repos.svg)](https://wakatime.com/@johnlesterisleta)
 
+
 Welcome to my GitHub profile! I’m a web developer focused on Shopify, WooCommerce, and interactive web projects. Here you’ll find my code, projects, and coding stats.
