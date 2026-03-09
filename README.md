@@ -28,14 +28,14 @@ Sunday                   18 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      1 hr 59 mins        ████████████████████░░░░░   81.36 % 
-HTML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+CSS                      1 hr 40 mins        ██████████████████████░░░   89.28 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
