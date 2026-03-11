@@ -7,20 +7,20 @@
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                76 commits          ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌃 Evening                123 commits         █████████████░░░░░░░░░░░░   51.04 % 
-🌙 Night                  42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+🌆 Daytime                77 commits          ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌃 Evening                123 commits         █████████████░░░░░░░░░░░░   50.83 % 
+🌙 Night                  42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Tuesday                  34 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Wednesday                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Friday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Saturday                 58 commits          ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Monday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Tuesday                  35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Wednesday                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Friday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Saturday                 58 commits          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Sunday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 ```
 
 
@@ -28,14 +28,16 @@ Sunday                   18 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      1 hr 42 mins        █████████████████████░░░░   84.40 % 
-HTML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+CSS                      1 hr 5 mins         ███████████░░░░░░░░░░░░░░   45.90 % 
+JSON                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+JavaScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+HTML                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
