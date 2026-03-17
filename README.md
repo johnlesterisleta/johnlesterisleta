@@ -1,5 +1,4 @@
 
-<img src="https://w.wallhaven.cc/full/dp/wallhaven-dp5zgg.jpg" />
 
 ## 📊 Weekly Development Breakdown
 
