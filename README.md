@@ -28,16 +28,13 @@ Sunday                   18 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     32 mins             █████████████░░░░░░░░░░░░   51.89 % 
-JavaScript               29 mins             ████████████░░░░░░░░░░░░░   47.04 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+HTML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
