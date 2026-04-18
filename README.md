@@ -1,4 +1,6 @@
+<img src="https://w.wallhaven.cc/full/dp/wallhaven-dp5zgg.jpg" />
 
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:header-->
 **I'm a Night 🦉** 
